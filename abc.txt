@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello vijayapur
+=======
+hello gpt vijayapur
+>>>>>>> fc5cf783330407caf92feb6319e13b8f3b2fdd28
